@@ -1,0 +1,491 @@
+[
+    {
+        "name": "Glia",
+        "program_url": "https://www.glia.com/security-bounty",
+        "logo": "https://cdn.prod.website-files.com/680f1550811d9719bdbcf21b/6835fd1ea895df4327eae39d_favicon%20(4).png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$200 - $5,000",
+        "inscope_domains": [
+            "*.glia.com",
+            "*.glia.eu",
+            "*.salemove.com",
+            "*.salemove.eu"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Totalcoin",
+        "program_url": "https://totalcoin.io/bug-bounty",
+        "logo": "https://totalcoin.io/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$200 - $30,000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+            "totalcoin.io"
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Genetec",
+        "program_url": "https://www.genetec.com/trust-cybersecurity/public-bug-bounty-program",
+        "logo": "https://www.genetec.com/webfiles/latest/build/static/img/favicon-16x16.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $5000 CAD",
+        "inscope_domains": [
+            "*.clearance.network",
+            "*.clearid.io",
+            "*.genetec.cloud",
+            "*.genetec.com",
+            "login.genetec.com",
+            "*.genetec.one",
+            "*.geneteccloud.com",
+            "*.q2c.eu",
+            "*.autovu.com",
+            "*.curbsense.com",
+            "*.autovu.cloud"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "AxonIvy",
+        "program_url": "https://www.axonivy.com/bugbountyprogram",
+        "logo": "https://www.axonivy.com/hubfs/brand/axonivy-logo-square.svg",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $3000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Voatz",
+        "program_url": "https://voatz.com/bug-bounty/",
+        "logo": "https://voatz.com/wp-content/uploads/2020/07/cropped-Favicon@3x-1-3-32x32.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$250 - $2000",
+        "inscope_domains": [
+
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Bambulab",
+        "program_url": "https://bambulab.com/en-in/security",
+        "logo": "https://bambulab.com/favicon.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "-",
+        "inscope_domains": [
+            "*.bambulab.com",
+            "makerworld.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Wallarm",
+        "program_url": "https://www.wallarm.com/wallarm-security-bug-bounty-program",
+        "logo": "https://cdn.prod.website-files.com/5fe3434623c64c793987363d/68640b515d77f72a69d84e44_fav.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$20 - $300",
+        "inscope_domains": [
+            "audit.my.wallarm.com",
+            "apiconsole.audit.wallarm.com",
+            "audit.api.wallarm.com"
+        ],
+        "outofscope_domains": [
+            "my.wallarm.com",
+            "api.wallarm.com",
+            "*.eu1.wallarm.com",
+            "us1.my.wallarm.com",
+            "us1.api.wallarm.com",
+            "*.us1.wallarm.com",
+            "wallarm.com",
+            "www.wallarm.com",
+            "lab.wallarm.com",
+            "status.wallarm.com",
+            "changelog.wallarm.com",
+            "docs.wallarm.com",
+            "docs.fast.wallarm.com",
+            "*.demo.wallarm.com"
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Chargeover",
+        "program_url": "https://help.chargeover.com/docs/data-security/bug-bounty-program/",
+        "logo": "https://help.chargeover.com/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "-",
+        "inscope_domains": [
+            "www.ChargeOver.com",
+            "app.Chargeover.com",
+            "help.ChargeOver.com",
+            "developer.ChargeOver.com"
+        ],
+        "outofscope_domains": [
+            "custom.ChargeOver.com",
+            "cap.ChargeOver.com",
+            "pa.ChargeOver.com",
+            "calendly.com"
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Paydo",
+        "program_url": "https://paydo.com/bug-bounty-program/",
+        "logo": "https://paydo.com/wp-content/themes/paydo/assets/favicon/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "€70 - €2000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Quicko",
+        "program_url": "https://help.quicko.com/portal/en/kb/articles/bug-bounty-program",
+        "logo": "https://help.quicko.com/portal/api/publicImages/181720000004415822?portalId=edbsn53e7d8664ec21fd2fbfd8f3765035a9c0408c4fa30ccfada9181bd803e0140c7",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "₹1000 - ₹5000",
+        "inscope_domains": [
+            "*.quicko.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Simpleshow",
+        "program_url": "https://simpleshow.com/bug-bounty-program/",
+        "logo": "https://simpleshow.com/wp-content/uploads/2017/10/cropped-simpleshow-Icon-1-32x32.jpg",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "€100",
+        "inscope_domains": [
+            "simpleshow.com",
+            "app.simpleshow.com",
+            "website.simpleshow.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Getjobber",
+        "program_url": "https://www.getjobber.com/security/bug-bounty/",
+        "logo": "https://www.getjobber.com/wp-content/uploads/2025/07/cropped-fav-32x32.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $500 CAD",
+        "inscope_domains": [
+            "secure.getjobber.com",
+            "clienthub.getjobber.com",
+            "developer.getjobber.com"
+        ],
+        "outofscope_domains": [
+            "getjobber.com",
+            "share.getjobber.com",
+            "try.getjobber.com",
+            "community.getjobber.com"
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "dn77",
+        "program_url": "https://www.cdn77.com/bug-bounty",
+        "logo": "https://www.cdn77.com/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $2,000",
+        "inscope_domains": [
+            "cdn77.com",
+            "client.cdn77.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Emsisoft",
+        "program_url": "https://www.emsisoft.com/en/bug-bounty/",
+        "logo": "https://www.emsisoft.com/wp-content/themes/emsisoft_base/dist/images/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$500",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Robinrobot",
+        "program_url": "https://robinrobot.com/bug-bounty/",
+        "logo": "https://robinrobot.com/content/images/size/w256h256/2025/06/fav-1.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "-",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Levelall",
+        "program_url": "https://help.levelall.com/en/articles/10776377-bug-bounty-program",
+        "logo": "https://intercom.help/level-all/assets/favicon",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$50 - $1000",
+        "inscope_domains": [
+            "app.levelall.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Liveagent",
+        "program_url": "https://www.liveagent.com/bug-bounty-program/",
+        "logo": "https://www.liveagent.com/app/themes/liveagent/assets/images/favicon/favicon-16x16.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100",
+        "inscope_domains": [
+            "*yourdomain*.ladesk.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Pocketrn",
+        "program_url": "https://www.pocketrn.com/support/bug-bounty",
+        "logo": "https://cdn.prod.website-files.com/645beecd3548db4cc5960671/645ce8f08d37363386152497_logo32.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$50 - $500",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Keepertax",
+        "program_url": "https://www.keepertax.com/bug-bounty-program",
+        "logo": "https://cdn.prod.website-files.com/5cdcb07b95678daa55f2bd83/65403fe33b79c88541d6b174_Group%20383.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$0 - $5,000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Haystackteam",
+        "program_url": "https://www.haystackteam.com/legal/bug-bounty",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/66e99aea19b5d4aef4714c8b_favicon.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$10,000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Wazirx",
+        "program_url": "https://support.wazirx.com/hc/en-us/articles/360002288734-Do-you-have-a-Bug-Bounty-program",
+        "logo": "https://support.wazirx.com/system/photos/360456706413/wazirx_logo_icon.jpeg",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $500",
+        "inscope_domains": [
+            "*.wazirx.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Setpointmedical",
+        "program_url": "https://setpointmedical.com/security-rewards/",
+        "logo": "https://setpointmedical.com/wp-content/uploads/2025/07/cropped-Setpoint_Favicon_512x512-150x150.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $10,000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Cleanshot",
+        "program_url": "https://cleanshot.com/disclosure",
+        "logo": "https://cleanshot.com/favicon@2x.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "-",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Bitopro",
+        "program_url": "https://support.bitopro.com/hc/en-us/articles/360035233032-Bug-Bounty-Program",
+        "logo": "https://cdn.bitopro.com/images/favicon.ico",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$50 - $2,000",
+        "inscope_domains": [
+            "bitopro.com",
+            "api.bitopro.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Englishscore",
+        "program_url": "https://www.englishscore.com/.well-known/englishscore-bug-bounty-policy-sept2021.pdf",
+        "logo": "",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "£100",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Bitbns",
+        "program_url": "https://bitbns.com/bug-bounty/",
+        "logo": "https://bitbns.com/assets/img/logos/bitbns.svg",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "₹1000",
+        "inscope_domains": [
+            "bitbns.com"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Signageos",
+        "program_url": "https://www.signageos.io/legal/bug-bounty",
+        "logo": "https://framerusercontent.com/images/sYaTJrmXT6XdEF3Lu75MqMwjx0.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$50 - $5,000",
+        "inscope_domains": [
+            "box.signageos.io",
+            "api.signageos.io"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Unguess",
+        "program_url": "https://unguess.io/bug-bounty-program/",
+        "logo": "https://unguess.io/wp-content/uploads/2022/12/cropped-favicon-32x32.webp",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "€1,000",
+        "inscope_domains": [
+            "*tryber.me",
+            "*whitejar.io",
+            "app.unguess.io"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Gobluebird",
+        "program_url": "https://gobluebird.io/bug-bounty-program/",
+        "logo": "https://gobluebird.io/wp-content/uploads/2024/06/cropped-favicon-bluebg-32x32.webp",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $1,000",
+        "inscope_domains": [
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "Tubeway",
+        "program_url": "https://tubeway.io/bug-bounty-program/",
+        "logo": "https://tubeway.io/wp-content/uploads/2025/04/tw_logo_favicon.svg",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "€50 - €200",
+        "inscope_domains": [
+            "tubeway.io"
+        ],
+        "outofscope_domains": [
+        ],
+        "last_updated": "2025-09-27"
+    },
+    {
+        "name": "CAKE",
+        "program_url": "https://security.cake.com/",
+        "logo": "https://security.cake.com/icons/favicon-16x16.png",
+        "is_new": true,
+        "platform": "SelfHosted",
+        "reward": "$100 - $2,500",
+        "inscope_domains": [
+            "app.clockify.me",
+            "app.plaky.com",
+            "app.pumble.com",
+            "account.cake.com",
+            "*.api.clockify.me",
+            "*.api.plaky.com",
+            "*.api-ga.pumble.com"
+        ],
+        "outofscope_domains": [
+            "clockify.me",
+            "plaky.com",
+            "pumble.com",
+            "cake.com",
+            "forum.clockify.me",
+            "security.cake.com",
+            "*.clockify.me",
+            "*.plaky.com",
+            "*.pumble.com",
+            "*.cake.com"
+        ],
+        "last_updated": "2025-09-27"
+    }
+]
